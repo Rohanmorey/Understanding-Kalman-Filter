@@ -13,3 +13,6 @@ Easy approach to understand Kalman filter. A quick and short crisp information t
     Kalman Filter Estimate (Blue): The Kalman filter smooths out the noise and gives a more accurate estimate of the UAV’s true altitude.
 
 This implementation helps keep the altitude estimate accurate despite the noisy sensor readings. The Kalman filter corrects the estimate after each sensor update.
+
+
+![UAV Altitude Graph](./images/KF.png)
